@@ -14,7 +14,7 @@ const Button = ({ onPress, children }
     );
 };
 
-export default Button;
+export { Button };
 
 const styles = {
     buttonStyle: {

@@ -12,7 +12,7 @@ const Header = (props) => {
 }
 
 // Make the component available to other parts of the app
-export default Header;
+export { Header };
 
 styles = {
   header: {
@@ -34,7 +34,3 @@ styles = {
     textTransform: 'uppercase'
   }
 };
-
-
-
-// import { styles } from '../Styles';
