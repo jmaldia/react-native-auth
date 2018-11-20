@@ -23,7 +23,8 @@ const styles = {
         backgroundColor: '#fff', 
         borderWidth: 1, 
         borderColor: '#007aff',
-        borderRadius: 3
+        borderRadius: 3, 
+        margin: 10
     }, 
     textStyle: {
         alignSelf: 'center',
