@@ -1,3 +1,0 @@
-rootProject.name = 'rnauth'
-
-include ':app'
